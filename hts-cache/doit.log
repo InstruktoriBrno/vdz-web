@@ -1,0 +1,8 @@
+vdz.instruktori.cz -a -o0 -X0 -s0 -%k -c40 -%c2000 -A50000000 -%! -v -%v2
+File generated automatically on Sat, 09 Mar 2019 09:36:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
